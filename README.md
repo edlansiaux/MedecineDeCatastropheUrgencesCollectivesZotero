@@ -26,7 +26,9 @@ References to articles published in a periodical must include the name of the fi
 of the first and last pages of the text (in abbreviated form). Presentation (style and punctuation) scrupulously follows the following three examples:
 
 [1] Clark AM, Hartling L, Vandermeer B, McAlister FA. Meta-analysis: secondary prevention programs for  patients with coronary artery disease. Ann Intern Med 2005;143:659-72. 
+
 [2] Champault A, Dagher I, Vons C, Franco D. Laparoscopic hepatic resection for hepatocellular carcinoma. Retrospective study of 12 patients. Gastroenterol Clin Biol 2005;29:969-73. 
+
 [3] Guilpain P, Chanseaud Y, Tamby MC, Mahr A, Servettaz A, Guillevin L et al. Pathogénie des vascularites systémiques primitives (I) : vascularites ANCA-positives. Presse Med 2005;34:1023-33.
 
 ### For a book :
